@@ -1,0 +1,29 @@
+{
+    "addUnit": 1,
+    "listUnit": 1,
+    "filterUnit": 1,
+    "viewUnit": 1,
+    "viewUnitDetails": 1,
+    "editUnit": 1,
+
+    "listUsers": 1,
+    "editUser": 2,
+    "viewUser": 3,
+    "listCustomers": 4,
+    "editCustomer": 5,
+    "viewCustomer": 6,
+    "viewProfile": 7,
+    "editProfile": 8,
+    "editEmailProfile": 9,
+    "listAgreements": 10,
+    "viewAgreement": 11,
+    "editAgreement": 12,
+    "uploadDocument": 13,
+    "viewAgreementFile": 14,
+    "updateAgreementStatus": 15,
+    "downloadAgreementFile": 16,
+    "listContractConfigurations": 22,
+    "updateContractConfigurations": 23,
+    "createAgreementSettings": 25
+  }
+  

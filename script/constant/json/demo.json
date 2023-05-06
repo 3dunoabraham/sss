@@ -1,0 +1,7 @@
+{
+    "MAIN_API_URL": "https://apidev.servicepad.com",
+    "DEMO_USER": {
+        "email":"example@example.com",
+        "name": "joe"
+    }
+}

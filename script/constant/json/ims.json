@@ -1,0 +1,7 @@
+{
+    "MAIN_API_URL": "https://i.jinaron.com/api/v1",
+    "DEMO_USER": {
+        "email":"example@example.com",
+        "name": "joe"
+    }
+}
