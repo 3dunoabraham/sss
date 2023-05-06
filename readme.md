@@ -1,4 +1,4 @@
-# Super Synced Software
+# Super Synced Software sss
 
 Comprehensive software solution that enables efficient inventory management, tracking, and monitoring, while also offering advanced 3D web features. It is built using the Nextjs v13 ensuring reliability, scalability, and security. IMSFront also features a 3D model viewer for the units, allowing users to visualize the physical space and layout of each unit.
 
