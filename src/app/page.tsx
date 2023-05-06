@@ -21,8 +21,7 @@ import LocalStorageTable from '@/module/landing/LocalStorageTable';
 import Fetch3rdParty from '@/module/landing/Fetch3rdParty';
 import ApiFetchedFromServerCached from '@/module/landing/ApiFetchedFromServerCached';
 import SSSDemo from '@/module/landing/SSSDemo';
-import InvFrontCard from '@/module/inventory/InvFrontCard';
-import IMSFDemo from '@/module/inventory/IMSFDemo';
+import LandingFrontCard from '@/module/landing/LandingFrontCard';
 
 export default async function Page() {
 
@@ -52,19 +51,18 @@ export default async function Page() {
         <div className=' w-300px Q_lg_x'></div>
         <div className=' pos-fix w-300px Q_lg_x'>
             
-          <InvFrontCard />
+          <LandingFrontCard />
         </div>
 
         <div className='w-100'>
           
         <div className='  Q_xs_lg'>
             
-            <InvFrontCard />
-            <br className='my-8' />
+            <LandingFrontCard />
           </div>
           {/* demo */}
                 {/* @ts-expect-error */}
-                <IMSFDemo />
+          <SSSDemo />
 
           <hr className='my-4' />
 
